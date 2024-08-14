@@ -1,0 +1,1 @@
+# Prediction-of-Bacterial-Infection-in-Bell-Pepper-Plants-Using-CNN-
